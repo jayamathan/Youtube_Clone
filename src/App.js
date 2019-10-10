@@ -16,7 +16,7 @@ class App extends Component {
   };
 
   componentDidMount() {
-    this.searchVideoHandler("Gratitude"); // for default  :>
+    this.searchVideoHandler("New york 4k rain"); // for default  :>
   }
 
   searchVideoHandler = term =>
